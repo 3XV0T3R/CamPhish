@@ -41,6 +41,6 @@ bash camphish.sh
 
 ## Histórico de Versões:
 
-<p><b>Versão: 1.0:</b> Integração com WebHooks do Discord</p>
+<p><b>Versão 1.0:</b> Implementação da integração com WebHooks do Discord. Agora, cada imagem capturada pela câmera é automaticamente enviada para um canal do Discord via WebHook. Além disso, o sistema foi traduzido para o português para facilitar a utilização por falantes dessa língua.</p>
 
 #### O CamPhish foi criado para auxiliar em testes de penetração e não se responsabiliza por qualquer uso indevido ou ilegal.
