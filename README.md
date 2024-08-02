@@ -41,15 +41,6 @@ bash camphish.sh
 
 ## Histórico de Versões:
 
-<p><b>Versão: 1.7:</b> Correções e adição de suporte</p>
-<ul>
-  <li>Corrigido: termux falhou ao obter o diretório inicial</li>
-  <li>Adicionado suporte para Apple Silicon (M1/M2/M3 ARM64)</li>
-  <li>Adicionado suporte para arm64, como Raspberry Pi</li>
-</ul>
-<p><b>Versão: 1.6:</b> Correção na geração de link direto do ngrok</p>
-<p><b>Versão: 1.5:</b> Adicionado novo modelo de reunião online</p>
-<p><b>Versão: 1.4:</b> Atualização do authtoken do ngrok</p>
-<p><b>Versão: 1.3:</b> Correção do link direto do ngrok</p>
+<p><b>Versão: 1.0:</b> Integração com WebHooks do Discord</p>
 
 #### O CamPhish foi criado para auxiliar em testes de penetração e não se responsabiliza por qualquer uso indevido ou ilegal.
